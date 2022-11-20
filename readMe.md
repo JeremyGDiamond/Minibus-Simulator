@@ -4,7 +4,7 @@
 
 My project is based on and idea from a 1977 architecture textbook called a pattern language. The book is generally thought to be the originator of the idea a pattern center design in software engineering and as such is considered highly influential in many software and ux design fields.
 
-![Writing%20Sample%20Mini%20Bus%20Engine%2083231184014d40009dd4d65fc786dd2c/Screenshot_from_2019-12-04_09-09-13.png](Writing%20Sample%20Mini%20Bus%20Engine%2083231184014d40009dd4d65fc786dd2c/Screenshot_from_2019-12-04_09-09-13.png)
+![Writing%20Sample%20Mini%20Bus%20Engine/Screenshot_from_2019-12-04_09-09-13.png](Writing%20Sample%20Mini%20Bus%20Engine/Screenshot_from_2019-12-04_09-09-13.png)
 
 Pattern number 20 is called a minibus. A minibus is a vehicle which is dynamically routed between hundreds of optional bus stops with six passengers. Mini buses are thought to be useful in providing efficient and fast public transit to areas which are geographically large, with low population densities.
 
@@ -16,15 +16,15 @@ The goal of this project will be to make a mini bus simulator where the buses ar
 
 In the first section of this project I use an existing anaconda environment called [OSMnx](https://github.com/gboeing/osmnx), published by professor Geoff Boeing of the University of Southern California, to download geographic data from Open Street Maps and insert it into a graph from the python library networkx. Doing this I generate three graphs based on data from the Denver metro area. First a 3 by 3 block area which is used as a test map.  
 
-![Writing%20Sample%20Mini%20Bus%20Engine%2083231184014d40009dd4d65fc786dd2c/Figure_3.png](Writing%20Sample%20Mini%20Bus%20Engine%2083231184014d40009dd4d65fc786dd2c/Figure_3.png)
+![Writing%20Sample%20Mini%20Bus%20Engine/Figure_3.png](Writing%20Sample%20Mini%20Bus%20Engine/Figure_3.png)
 
 Then a geographically larger area which encloses the suburb I grew up in. 
 
-![Writing%20Sample%20Mini%20Bus%20Engine%2083231184014d40009dd4d65fc786dd2c/Figure_2.png](Writing%20Sample%20Mini%20Bus%20Engine%2083231184014d40009dd4d65fc786dd2c/Figure_2.png)
+![Writing%20Sample%20Mini%20Bus%20Engine/Figure_2.png](Writing%20Sample%20Mini%20Bus%20Engine/Figure_2.png)
 
 Finally a map of the urban center of downtown Denver bounded by major roads on all four sides.
 
-![Writing%20Sample%20Mini%20Bus%20Engine%2083231184014d40009dd4d65fc786dd2c/Figure_1.png](Writing%20Sample%20Mini%20Bus%20Engine%2083231184014d40009dd4d65fc786dd2c/Figure_1.png)
+![Writing%20Sample%20Mini%20Bus%20Engine/Figure_1.png](Writing%20Sample%20Mini%20Bus%20Engine/Figure_1.png)
 
 ## OSMnxTest python implementation
 
@@ -411,7 +411,7 @@ The aggregate of my data is this table.
 
 When you graph travel time verses number of buses per person clear patterns emerge
 
-![Writing%20Sample%20Mini%20Bus%20Engine%2083231184014d40009dd4d65fc786dd2c/pubchart.png](Writing%20Sample%20Mini%20Bus%20Engine%2083231184014d40009dd4d65fc786dd2c/pubchart.png)
+![Writing%20Sample%20Mini%20Bus%20Engine/pubchart.png](Writing%20Sample%20Mini%20Bus%20Engine/pubchart.png)
 
 First H2 out preforms H1 (random assignment) in both suburban and urban environments. Second without the inherent advantages of dedicated transit infrastructure cars simply out preform transit in all cases. Lastly the buses performance asymptotically approach the performance of cars and as such there are diminishing returns to adding more buses beyond 0.5 buses per person.
 
