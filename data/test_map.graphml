@@ -1,0 +1,618 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d18" for="edge" attr.name="ref" attr.type="string" />
+  <key id="d17" for="edge" attr.name="traverse_time" attr.type="double" />
+  <key id="d16" for="edge" attr.name="maxspeed" attr.type="string" />
+  <key id="d15" for="edge" attr.name="geometry" attr.type="string" />
+  <key id="d14" for="edge" attr.name="length" attr.type="string" />
+  <key id="d13" for="edge" attr.name="highway" attr.type="string" />
+  <key id="d12" for="edge" attr.name="name" attr.type="string" />
+  <key id="d11" for="edge" attr.name="lanes" attr.type="string" />
+  <key id="d10" for="edge" attr.name="oneway" attr.type="string" />
+  <key id="d9" for="edge" attr.name="osmid" attr.type="string" />
+  <key id="d8" for="node" attr.name="lat" attr.type="string" />
+  <key id="d7" for="node" attr.name="lon" attr.type="string" />
+  <key id="d6" for="node" attr.name="highway" attr.type="string" />
+  <key id="d5" for="node" attr.name="osmid" attr.type="string" />
+  <key id="d4" for="node" attr.name="x" attr.type="string" />
+  <key id="d3" for="node" attr.name="y" attr.type="string" />
+  <key id="d2" for="graph" attr.name="streets_per_node" attr.type="string" />
+  <key id="d1" for="graph" attr.name="name" attr.type="string" />
+  <key id="d0" for="graph" attr.name="crs" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="176071284">
+      <data key="d3">4399085.161930141</data>
+      <data key="d4">501821.2076106313</data>
+      <data key="d5">176071284</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.9787442</data>
+      <data key="d8">39.7416627</data>
+    </node>
+    <node id="176071285">
+      <data key="d3">4399084.864578686</data>
+      <data key="d4">501921.7537609966</data>
+      <data key="d5">176071285</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.9775707</data>
+      <data key="d8">39.7416598</data>
+    </node>
+    <node id="176071286">
+      <data key="d3">4399084.507158908</data>
+      <data key="d4">502041.9721827456</data>
+      <data key="d5">176071286</data>
+      <data key="d6">nan</data>
+      <data key="d7">-104.9761676</data>
+      <data key="d8">39.7416563</data>
+    </node>
+    <node id="176071287">
+      <data key="d3">4399084.151353557</data>
+      <data key="d4">502161.2395631636</data>
+      <data key="d5">176071287</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.9747756</data>
+      <data key="d8">39.7416528</data>
+    </node>
+    <node id="176072880">
+      <data key="d3">4398903.44908851</data>
+      <data key="d4">502213.98518455256</data>
+      <data key="d5">176072880</data>
+      <data key="d6">nan</data>
+      <data key="d7">-104.9741606</data>
+      <data key="d8">39.7400245</data>
+    </node>
+    <node id="176080661">
+      <data key="d3">4399261.784048396</data>
+      <data key="d4">501821.7911720231</data>
+      <data key="d5">176080661</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.9787369</data>
+      <data key="d8">39.7432541</data>
+    </node>
+    <node id="176080663">
+      <data key="d3">4399261.50889592</data>
+      <data key="d4">501922.3093005139</data>
+      <data key="d5">176080663</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.9775637</data>
+      <data key="d8">39.7432514</data>
+    </node>
+    <node id="176080665">
+      <data key="d3">4399261.184478286</data>
+      <data key="d4">502041.38542322576</data>
+      <data key="d5">176080665</data>
+      <data key="d6">nan</data>
+      <data key="d7">-104.9761739</data>
+      <data key="d8">39.7432482</data>
+    </node>
+    <node id="176080667">
+      <data key="d3">4399260.862078525</data>
+      <data key="d4">502161.06987483473</data>
+      <data key="d5">176080667</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.974777</data>
+      <data key="d8">39.743245</data>
+    </node>
+    <node id="176091835">
+      <data key="d3">4398902.33746944</data>
+      <data key="d4">501918.7063020547</data>
+      <data key="d5">176091835</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.9776068</data>
+      <data key="d8">39.7400152</data>
+    </node>
+    <node id="176091837">
+      <data key="d3">4399438.830272253</data>
+      <data key="d4">501922.86464139033</data>
+      <data key="d5">176091837</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.9775567</data>
+      <data key="d8">39.7448491</data>
+    </node>
+    <node id="176093794">
+      <data key="d3">4399439.338315097</data>
+      <data key="d4">501821.62909595703</data>
+      <data key="d5">176093794</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.9787383</data>
+      <data key="d8">39.7448539</data>
+    </node>
+    <node id="176093795">
+      <data key="d3">4399438.228355265</data>
+      <data key="d4">502041.7667347834</data>
+      <data key="d5">176093795</data>
+      <data key="d6">nan</data>
+      <data key="d7">-104.9761689</data>
+      <data key="d8">39.7448434</data>
+    </node>
+    <node id="176093797">
+      <data key="d3">4399437.617605637</data>
+      <data key="d4">502162.1767587667</data>
+      <data key="d5">176093797</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.9747635</data>
+      <data key="d8">39.7448376</data>
+    </node>
+    <node id="176095765">
+      <data key="d3">4398902.469123761</data>
+      <data key="d4">502041.89206756436</data>
+      <data key="d5">176095765</data>
+      <data key="d6">nan</data>
+      <data key="d7">-104.9761691</data>
+      <data key="d8">39.7400161</data>
+    </node>
+    <node id="176095776">
+      <data key="d3">4398902.440046991</data>
+      <data key="d4">502015.8531488946</data>
+      <data key="d5">176095776</data>
+      <data key="d6">nan</data>
+      <data key="d7">-104.976473</data>
+      <data key="d8">39.7400159</data>
+    </node>
+    <node id="176103306">
+      <data key="d3">4398902.679842355</data>
+      <data key="d4">501820.6339766632</data>
+      <data key="d5">176103306</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.9787514</data>
+      <data key="d8">39.7400185</data>
+    </node>
+    <node id="176103309">
+      <data key="d3">4398902.74411284</data>
+      <data key="d4">502114.76499925123</data>
+      <data key="d5">176103309</data>
+      <data key="d6">nan</data>
+      <data key="d7">-104.9753186</data>
+      <data key="d8">39.7400184</data>
+    </node>
+    <node id="176103311">
+      <data key="d3">4398903.056172402</data>
+      <data key="d4">502159.31983539666</data>
+      <data key="d5">176103311</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d7">-104.9747986</data>
+      <data key="d8">39.7400211</data>
+    </node>
+    <edge source="176071284" target="176103306" id="0">
+      <data key="d9">[39471712, 628643775]</data>
+      <data key="d10">True</data>
+      <data key="d11">2</data>
+      <data key="d12">Washington Street</data>
+      <data key="d13">tertiary</data>
+      <data key="d14">182.82799999999997</data>
+      <data key="d15">LINESTRING (501821.2076106313 4399085.161930141, 501821.1757206576 4399075.1177559, 501821.0874627564 4399049.857488858, 501820.9747684555 4399019.247727623, 501820.9504247857 4399013.509784108, 501820.7577055768 4398959.038177252, 501820.7336325668 4398952.157086314, 501820.645616186 4398925.864661434, 501820.6054353268 4398914.644044192, 501820.6339766632 4398902.679842355)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">13.6</data>
+    </edge>
+    <edge source="176071284" target="176071285" id="0">
+      <data key="d9">124661412</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">East 16th Avenue</data>
+      <data key="d13">tertiary</data>
+      <data key="d14">100.337</data>
+      <data key="d15">LINESTRING (501821.2076106313 4399085.161930141, 501827.7279021596 4399085.141282338, 501857.3219693092 4399085.059595402, 501866.0099804903 4399085.02840622, 501912.697323192 4399084.895613013, 501921.7537609966 4399084.864578686)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">7.5</data>
+    </edge>
+    <edge source="176071285" target="176071286" id="0">
+      <data key="d9">124661412</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">East 16th Avenue</data>
+      <data key="d13">tertiary</data>
+      <data key="d14">119.96900000000001</data>
+      <data key="d15">LINESTRING (501921.7537609966 4399084.864578686, 501931.1443416924 4399084.878033175, 501979.708029706 4399084.979188596, 502028.3232480657 4399084.61452664, 502041.9721827456 4399084.507158908)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">8.9</data>
+    </edge>
+    <edge source="176071285" target="176071284" id="0">
+      <data key="d9">124661412</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">East 16th Avenue</data>
+      <data key="d13">tertiary</data>
+      <data key="d14">100.337</data>
+      <data key="d15">LINESTRING (501921.7537609966 4399084.864578686, 501912.697323192 4399084.895613013, 501866.0099804903 4399085.02840622, 501857.3219693092 4399085.059595402, 501827.7279021596 4399085.141282338, 501821.2076106313 4399085.161930141)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">7.5</data>
+    </edge>
+    <edge source="176071285" target="176080663" id="0">
+      <data key="d9">335726354</data>
+      <data key="d10">True</data>
+      <data key="d11">2</data>
+      <data key="d12">Clarkson Street</data>
+      <data key="d13">tertiary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">176.977</data>
+      <data key="d15">LINESTRING (501921.7537609966 4399084.864578686, 501921.7852749156 4399095.885423863, 501921.8965742523 4399130.457364486, 501921.9679968223 4399153.187167437, 501922.023805438 4399169.834973719, 501922.0313426981 4399173.952529637, 501922.142595037 4399208.70205092, 501922.166684531 4399215.150302345, 501922.2777298838 4399250.721117008, 501922.3093005139 4399261.50889592)</data>
+      <data key="d17">13.2</data>
+    </edge>
+    <edge source="176071286" target="176080665" id="0">
+      <data key="d9">16985355</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">Emerson Street</data>
+      <data key="d13">residential</data>
+      <data key="d14">177.01300000000003</data>
+      <data key="d15">LINESTRING (502041.9721827456 4399084.507158908, 502041.9349680043 4399095.572380513, 502041.9258657656 4399097.581211515, 502041.5990391097 4399198.921784582, 502041.4403034739 4399248.121523155, 502041.431275279 4399249.852891407, 502041.3854232258 4399261.184478286)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">13.2</data>
+    </edge>
+    <edge source="176071286" target="176095765" id="0">
+      <data key="d9">16985355</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">Emerson Street</data>
+      <data key="d13">residential</data>
+      <data key="d14">182.381</data>
+      <data key="d15">LINESTRING (502041.9721827456 4399084.507158908, 502041.9661293053 4399075.051212375, 502041.966831743 4399072.409763183, 502041.9296570897 4398986.662541135, 502041.9302857129 4398984.298555418, 502041.9053291769 4398917.041489256, 502041.9059548273 4398914.68860232, 502041.8920675644 4398902.469123761)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">13.6</data>
+    </edge>
+    <edge source="176071286" target="176071287" id="0">
+      <data key="d9">124661412</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">East 16th Avenue</data>
+      <data key="d13">tertiary</data>
+      <data key="d14">119.019</data>
+      <data key="d15">LINESTRING (502041.9721827456 4399084.507158908, 502053.5904689086 4399084.476961775, 502102.2998850909 4399084.323665386, 502150.9150517492 4399084.181750112, 502161.2395631636 4399084.151353557)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">8.9</data>
+    </edge>
+    <edge source="176071286" target="176071285" id="0">
+      <data key="d9">124661412</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">East 16th Avenue</data>
+      <data key="d13">tertiary</data>
+      <data key="d14">119.96900000000001</data>
+      <data key="d15">LINESTRING (502041.9721827456 4399084.507158908, 502028.3232480657 4399084.61452664, 501979.708029706 4399084.979188596, 501931.1443416924 4399084.878033175, 501921.7537609966 4399084.864578686)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">8.9</data>
+    </edge>
+    <edge source="176071287" target="176071286" id="0">
+      <data key="d9">124661412</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">East 16th Avenue</data>
+      <data key="d13">tertiary</data>
+      <data key="d14">119.019</data>
+      <data key="d15">LINESTRING (502161.2395631636 4399084.151353557, 502150.9150517492 4399084.181750112, 502102.2998850909 4399084.323665386, 502053.5904689086 4399084.476961775, 502041.9721827456 4399084.507158908)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">8.9</data>
+    </edge>
+    <edge source="176071287" target="176103311" id="0">
+      <data key="d9">[600545922, 128948475, 600545917]</data>
+      <data key="d10">True</data>
+      <data key="d11">['2', '1', '3']</data>
+      <data key="d12">Ogden Street</data>
+      <data key="d13">secondary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">181.446</data>
+      <data key="d15">LINESTRING (502161.2395631636 4399084.151353557, 502161.1393298228 4399074.972843505, 502160.722116583 4399035.206705308, 502160.1377912774 4398980.313232423, 502159.9542865556 4398962.555540568, 502159.6788686123 4398936.485028423, 502159.4450789688 4398914.720756414, 502159.3198353967 4398903.056172402)</data>
+      <data key="d17">13.5</data>
+    </edge>
+    <edge source="176072880" target="176103311" id="0">
+      <data key="d9">[600545929, 628643759]</data>
+      <data key="d10">False</data>
+      <data key="d11">5</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">54.552</data>
+      <data key="d15">LINESTRING (502213.9851845526 4398903.44908851, 502183.0709870348 4398903.229365739, 502173.4145842878 4398903.160035451, 502161.4104830255 4398903.078957618, 502159.3198353967 4398903.056172402)</data>
+      <data key="d17">4.1</data>
+    </edge>
+    <edge source="176080661" target="176071284" id="0">
+      <data key="d9">39471712</data>
+      <data key="d10">True</data>
+      <data key="d11">2</data>
+      <data key="d12">Washington Street</data>
+      <data key="d13">tertiary</data>
+      <data key="d14">176.956</data>
+      <data key="d15">LINESTRING (501821.7911720231 4399261.784048396, 501821.7508633353 4399251.118351731, 501821.495558707 4399171.586232467, 501821.3277256774 4399120.599555689, 501821.2960176883 4399109.789582556, 501821.2478316323 4399096.204973944, 501821.2076106313 4399085.161930141)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">13.2</data>
+    </edge>
+    <edge source="176080661" target="176080663" id="0">
+      <data key="d9">488803528</data>
+      <data key="d10">True</data>
+      <data key="d11">3</data>
+      <data key="d12">East 17th Avenue</data>
+      <data key="d13">secondary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">100.30799999999999</data>
+      <data key="d15">LINESTRING (501821.7911720231 4399261.784048396, 501828.259906453 4399261.763388894, 501866.027030323 4399261.661489277, 501903.8884016946 4399261.559798797, 501912.7218641345 4399261.539797179, 501922.3093005139 4399261.50889592)</data>
+      <data key="d17">7.5</data>
+    </edge>
+    <edge source="176080663" target="176091837" id="0">
+      <data key="d9">335726354</data>
+      <data key="d10">True</data>
+      <data key="d11">2</data>
+      <data key="d12">Clarkson Street</data>
+      <data key="d13">tertiary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">177.65699999999998</data>
+      <data key="d15">LINESTRING (501922.3093005139 4399261.50889592, 501922.3485274682 4399275.936994821, 501922.5075233746 4399325.303298793, 501922.8328195464 4399429.052456784, 501922.8646413903 4399438.830272253)</data>
+      <data key="d17">13.2</data>
+    </edge>
+    <edge source="176080663" target="176080665" id="0">
+      <data key="d9">488803528</data>
+      <data key="d10">True</data>
+      <data key="d11">3</data>
+      <data key="d12">East 17th Avenue</data>
+      <data key="d13">secondary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">118.828</data>
+      <data key="d15">LINESTRING (501922.3093005139 4399261.50889592, 501931.0913559531 4399261.488902563, 501967.7103904478 4399261.387214439, 501979.7396655896 4399261.357011061, 502027.6768481483 4399261.214141428, 502041.3854232258 4399261.184478286)</data>
+      <data key="d17">8.9</data>
+    </edge>
+    <edge source="176080665" target="176093795" id="0">
+      <data key="d9">16985355</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">Emerson Street</data>
+      <data key="d13">residential</data>
+      <data key="d14">177.37800000000001</data>
+      <data key="d15">LINESTRING (502041.3854232258 4399261.184478286, 502041.4244234767 4399275.623676402, 502041.4323627855 4399277.987665466, 502041.4774813825 4399301.63864603, 502041.5227088241 4399324.878981844, 502041.7133398177 4399413.489711266, 502041.7358051686 4399425.664807696, 502041.7436763009 4399428.284063554, 502041.7667347834 4399438.228355265)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">13.2</data>
+    </edge>
+    <edge source="176080665" target="176071286" id="0">
+      <data key="d9">16985355</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">Emerson Street</data>
+      <data key="d13">residential</data>
+      <data key="d14">177.013</data>
+      <data key="d15">LINESTRING (502041.3854232258 4399261.184478286, 502041.431275279 4399249.852891407, 502041.4403034739 4399248.121523155, 502041.5990391097 4399198.921784582, 502041.9258657656 4399097.581211515, 502041.9349680043 4399095.572380513, 502041.9721827456 4399084.507158908)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">13.2</data>
+    </edge>
+    <edge source="176080665" target="176080667" id="0">
+      <data key="d9">488803528</data>
+      <data key="d10">True</data>
+      <data key="d11">3</data>
+      <data key="d12">East 17th Avenue</data>
+      <data key="d13">secondary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">119.43499999999999</data>
+      <data key="d15">LINESTRING (502041.3854232258 4399261.184478286, 502055.5995018103 4399261.154974938, 502151.199697306 4399260.89260243, 502161.0698748347 4399260.862078525)</data>
+      <data key="d17">8.9</data>
+    </edge>
+    <edge source="176080667" target="176071287" id="0">
+      <data key="d9">128948475</data>
+      <data key="d10">True</data>
+      <data key="d11">1</data>
+      <data key="d12">Ogden Street</data>
+      <data key="d13">secondary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">177.045</data>
+      <data key="d15">LINESTRING (502161.0698748347 4399260.862078525, 502161.0904654418 4399248.587110092, 502161.1386722234 4399199.076583519, 502161.2278181922 4399095.438552408, 502161.2395631636 4399084.151353557)</data>
+      <data key="d17">13.2</data>
+    </edge>
+    <edge source="176091835" target="176103306" id="0">
+      <data key="d9">[600545920, 600546002, 600545974]</data>
+      <data key="d10">False</data>
+      <data key="d11">['4', '5']</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">97.86899999999999</data>
+      <data key="d15">LINESTRING (501918.7063020547 4398902.33746944, 501910.3094183716 4398902.313178914, 501882.8995428854 4398902.428492858, 501864.4263680218 4398902.501675122, 501852.9277603253 4398902.543286029, 501827.5914067311 4398902.648199481, 501820.6339766632 4398902.679842355)</data>
+      <data key="d17">7.3</data>
+    </edge>
+    <edge source="176091835" target="176095776" id="0">
+      <data key="d9">[600545937, 628643767]</data>
+      <data key="d10">False</data>
+      <data key="d11">5</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">96.944</data>
+      <data key="d15">LINESTRING (501918.7063020547 4398902.33746944, 501925.7494043 4398902.350331004, 501951.1199995904 4398902.3789324, 501956.3209299241 4398902.380255634, 501959.4140697131 4398902.381044269, 501975.2396324785 4398902.396197213, 501978.5298421095 4398902.397044242, 501990.225506286 4398902.411165101, 502013.5140154922 4398902.439433294, 502015.8531488946 4398902.440046991)</data>
+      <data key="d17">7.2</data>
+    </edge>
+    <edge source="176091835" target="176071285" id="0">
+      <data key="d9">[335726354, 628643773]</data>
+      <data key="d10">True</data>
+      <data key="d11">2</data>
+      <data key="d12">Clarkson Street</data>
+      <data key="d13">tertiary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">183.126</data>
+      <data key="d15">LINESTRING (501918.7063020547 4398902.33746944, 501921.2223032823 4398914.590868821, 501921.3257428517 4398946.354871007, 501921.4363638333 4398983.65704058, 501921.5315609306 4399014.111418093, 501921.5635726918 4399023.145626054, 501921.6188251071 4399042.024232574, 501921.721980322 4399074.909192194, 501921.7537609966 4399084.864578686)</data>
+      <data key="d17">13.7</data>
+    </edge>
+    <edge source="176091837" target="176093794" id="0">
+      <data key="d9">130919107</data>
+      <data key="d10">True</data>
+      <data key="d11">3</data>
+      <data key="d12">East 18th Avenue</data>
+      <data key="d13">secondary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">101.02600000000001</data>
+      <data key="d15">LINESTRING (501922.8646413903 4399438.830272253, 501912.8576057714 4399438.883265205, 501894.7712629265 4399438.96756867, 501866.0353086845 4399439.115910213, 501853.0552948274 4399439.17935765, 501828.4146866776 4399439.306632455, 501821.629095957 4399439.338315097)</data>
+      <data key="d17">7.5</data>
+    </edge>
+    <edge source="176093794" target="176080661" id="0">
+      <data key="d9">39471712</data>
+      <data key="d10">True</data>
+      <data key="d11">2</data>
+      <data key="d12">Washington Street</data>
+      <data key="d13">tertiary</data>
+      <data key="d14">177.89</data>
+      <data key="d15">LINESTRING (501821.629095957 4399439.338315097, 501821.6400835835 4399429.138766027, 501821.6989666649 4399361.515423535, 501821.7567574659 4399298.497978039, 501821.7671844105 4399290.662418036, 501821.7792519388 4399275.912474228, 501821.7911720231 4399261.784048396)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">13.3</data>
+    </edge>
+    <edge source="176093795" target="176080665" id="0">
+      <data key="d9">16985355</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">Emerson Street</data>
+      <data key="d13">residential</data>
+      <data key="d14">177.37800000000001</data>
+      <data key="d15">LINESTRING (502041.7667347834 4399438.228355265, 502041.7436763009 4399428.284063554, 502041.7358051686 4399425.664807696, 502041.7133398177 4399413.489711266, 502041.5227088241 4399324.878981844, 502041.4774813825 4399301.63864603, 502041.4323627855 4399277.987665466, 502041.4244234767 4399275.623676402, 502041.3854232258 4399261.184478286)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">13.2</data>
+    </edge>
+    <edge source="176093795" target="176091837" id="0">
+      <data key="d9">130919107</data>
+      <data key="d10">True</data>
+      <data key="d11">3</data>
+      <data key="d12">East 18th Avenue</data>
+      <data key="d13">secondary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">118.656</data>
+      <data key="d15">LINESTRING (502041.7667347834 4399438.228355265, 502027.6557842308 4399438.302305385, 501979.4797871804 4399438.544999707, 501931.0553313534 4399438.787933826, 501922.8646413903 4399438.830272253)</data>
+      <data key="d17">8.8</data>
+    </edge>
+    <edge source="176093797" target="176080667" id="0">
+      <data key="d9">128948475</data>
+      <data key="d10">True</data>
+      <data key="d11">1</data>
+      <data key="d12">Ogden Street</data>
+      <data key="d13">secondary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">177.091</data>
+      <data key="d15">LINESTRING (502162.1767587667 4399437.617605637, 502162.0456831336 4399416.286188261, 502162.0211895764 4399411.99104917, 502161.8240244313 4399381.94726617, 502161.4632323301 4399324.445671622, 502161.3977518638 4399313.569092656, 502161.1600195564 4399275.434474148, 502161.0698748347 4399260.862078525)</data>
+      <data key="d17">13.2</data>
+    </edge>
+    <edge source="176093797" target="176093795" id="0">
+      <data key="d9">130919107</data>
+      <data key="d10">True</data>
+      <data key="d11">3</data>
+      <data key="d12">East 18th Avenue</data>
+      <data key="d13">secondary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">120.16</data>
+      <data key="d15">LINESTRING (502162.1767587667 4399437.617605637, 502140.6119348997 4399437.722548238, 502133.9891237186 4399437.765098732, 502102.5029389395 4399437.922889849, 502088.2634753357 4399437.985594853, 502055.3122202988 4399438.154279686, 502041.7667347834 4399438.228355265)</data>
+      <data key="d17">9.0</data>
+    </edge>
+    <edge source="176095765" target="176095776" id="0">
+      <data key="d9">628643766</data>
+      <data key="d10">False</data>
+      <data key="d11">5</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">25.985</data>
+      <data key="d17">1.9</data>
+    </edge>
+    <edge source="176095765" target="176071286" id="0">
+      <data key="d9">16985355</data>
+      <data key="d10">False</data>
+      <data key="d11">2</data>
+      <data key="d12">Emerson Street</data>
+      <data key="d13">residential</data>
+      <data key="d14">182.381</data>
+      <data key="d15">LINESTRING (502041.8920675644 4398902.469123761, 502041.9059548273 4398914.68860232, 502041.9053291769 4398917.041489256, 502041.9302857129 4398984.298555418, 502041.9296570897 4398986.662541135, 502041.966831743 4399072.409763183, 502041.9661293053 4399075.051212375, 502041.9721827456 4399084.507158908)</data>
+      <data key="d16">30 mph</data>
+      <data key="d17">13.6</data>
+    </edge>
+    <edge source="176095765" target="176103309" id="0">
+      <data key="d9">[600545968, 628643765]</data>
+      <data key="d10">False</data>
+      <data key="d11">4</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">72.72200000000001</data>
+      <data key="d15">LINESTRING (502041.8920675644 4398902.469123761, 502063.5954435192 4398902.519319557, 502093.7299752155 4398902.59406791, 502102.3496236267 4398902.651915559, 502114.7649992512 4398902.74411284)</data>
+      <data key="d17">5.4</data>
+    </edge>
+    <edge source="176095776" target="176095765" id="0">
+      <data key="d9">628643766</data>
+      <data key="d10">False</data>
+      <data key="d11">5</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">25.985</data>
+      <data key="d17">1.9</data>
+    </edge>
+    <edge source="176095776" target="176091835" id="0">
+      <data key="d9">[600545937, 628643767]</data>
+      <data key="d10">False</data>
+      <data key="d11">5</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">96.944</data>
+      <data key="d15">LINESTRING (502015.8531488946 4398902.440046991, 502013.5140154922 4398902.439433294, 501990.225506286 4398902.411165101, 501978.5298421095 4398902.397044242, 501975.2396324785 4398902.396197213, 501959.4140697131 4398902.381044269, 501956.3209299241 4398902.380255634, 501951.1199995904 4398902.3789324, 501925.7494043 4398902.350331004, 501918.7063020547 4398902.33746944)</data>
+      <data key="d17">7.2</data>
+    </edge>
+    <edge source="176103306" target="176091835" id="0">
+      <data key="d9">[600545920, 600546002, 600545974]</data>
+      <data key="d10">False</data>
+      <data key="d11">['4', '5']</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">97.86900000000001</data>
+      <data key="d15">LINESTRING (501820.6339766632 4398902.679842355, 501827.5914067311 4398902.648199481, 501852.9277603253 4398902.543286029, 501864.4263680218 4398902.501675122, 501882.8995428854 4398902.428492858, 501910.3094183716 4398902.313178914, 501918.7063020547 4398902.33746944)</data>
+      <data key="d17">7.3</data>
+    </edge>
+    <edge source="176103309" target="176103311" id="0">
+      <data key="d9">[600545968, 628643764]</data>
+      <data key="d10">False</data>
+      <data key="d11">4</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">44.463</data>
+      <data key="d15">LINESTRING (502114.7649992512 4398902.74411284, 502125.5524094356 4398902.824780878, 502150.5031179899 4398902.998205611, 502159.3198353967 4398903.056172402)</data>
+      <data key="d17">3.3</data>
+    </edge>
+    <edge source="176103309" target="176095765" id="0">
+      <data key="d9">[600545968, 628643765]</data>
+      <data key="d10">False</data>
+      <data key="d11">4</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">72.72200000000001</data>
+      <data key="d15">LINESTRING (502114.7649992512 4398902.74411284, 502102.3496236267 4398902.651915559, 502093.7299752155 4398902.59406791, 502063.5954435192 4398902.519319557, 502041.8920675644 4398902.469123761)</data>
+      <data key="d17">5.4</data>
+    </edge>
+    <edge source="176103311" target="176072880" id="0">
+      <data key="d9">[600545929, 628643759]</data>
+      <data key="d10">False</data>
+      <data key="d11">5</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">54.552</data>
+      <data key="d15">LINESTRING (502159.3198353967 4398903.056172402, 502161.4104830255 4398903.078957618, 502173.4145842878 4398903.160035451, 502183.0709870348 4398903.229365739, 502213.9851845526 4398903.44908851)</data>
+      <data key="d17">4.1</data>
+    </edge>
+    <edge source="176103311" target="176103309" id="0">
+      <data key="d9">[600545968, 628643764]</data>
+      <data key="d10">False</data>
+      <data key="d11">4</data>
+      <data key="d18">I 70 Bus;US 40;US 287</data>
+      <data key="d12">East Colfax Avenue</data>
+      <data key="d13">primary</data>
+      <data key="d16">30 mph</data>
+      <data key="d14">44.463</data>
+      <data key="d15">LINESTRING (502159.3198353967 4398903.056172402, 502150.5031179899 4398902.998205611, 502125.5524094356 4398902.824780878, 502114.7649992512 4398902.74411284)</data>
+      <data key="d17">3.3</data>
+    </edge>
+    <data key="d0">+proj=utm +zone=13 +ellps=WGS84 +datum=WGS84 +units=m +no_defs</data>
+    <data key="d1">unnamed_UTM</data>
+    <data key="d2">{176071284: 4, 176071285: 4, 176071286: 4, 176071287: 4, 176072880: 3, 176080661: 4, 176080663: 4, 176080665: 4, 176080667: 4, 176091835: 4, 176091837: 4, 176093794: 4, 176093795: 4, 176093797: 6, 176095765: 3, 176095776: 3, 176103306: 4, 176103309: 3, 176103311: 3}</data>
+  </graph>
+</graphml>
