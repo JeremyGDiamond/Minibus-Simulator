@@ -418,3 +418,12 @@ First H2 out performs H1 (random assignment) in both suburban and urban environm
 # Conclusions
 
 There are a million directions I can take this project in the future. My main objectives are getting H3 working, multi-threading the simulation run function, and adding a real-time clock. The data is promising and indicates there is potential for further optimization to make mini buses a plausible replacement to some traditional transit options.
+
+# Bibliography
+
+1. Alexander, Christopher., et al.
+A Pattern Language: Towns, Buildings, Construction.
+New York, Oxford University Press, 1977
+2. Boeing, G. 2017. "OSMnx: New Methods for Acquiring, Constructing, Analyzing, and Visualizing Complex Street Networks." Computers, Environment and Urban Systems 65, 126-139. doi:10.1016/j.compenvurbsys.2017.05.004, [https://github.com/gboeing/osmnx/tree/7ad3ba43cbb94b4a3866f6cb1de9c34b40262660](https://github.com/gboeing/osmnx/tree/7ad3ba43cbb94b4a3866f6cb1de9c34b40262660)
+3. NetworkX, [https://networkx.org/](https://networkx.org/)
+4. OpenStreetMap, [https://www.openstreetmap.or](https://www.openstreetmap.org/#map=5/38.007/-95.844)
